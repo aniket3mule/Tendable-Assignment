@@ -21,10 +21,10 @@ namespace rinku_demo
 
             Console.WriteLine("Add is {0}", c);
         }
-        public void Add(int z, int b, int a)
+        public void Add(int p, int b, int a)
         {
            
-            int m = a + b + z;
+            int m = a + b + p;
             Console.WriteLine("Add is {0}", m);
         }
     }
